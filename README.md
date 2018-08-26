@@ -6,7 +6,7 @@
 - Word Scramble App
 - Miscellaneous Computer Vision Projects (Under Construction...)
 
-### Private School Projects (Available upon request):
+### Private School Projects (Available upon Request):
 - Box Office Success Predictor
 - Multi-agent Soccer Game
 
