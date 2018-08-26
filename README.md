@@ -18,7 +18,7 @@
 - Teaching Assistantship: CS7646 Machine Learning for Trading (4 Semesters)
 - Cummulative GPA: 4.0
 
-|Course Completed | material     | Term       | Grade |
+|Course Number | Course Description     | Term       | Grade |
 |---- | ------------ | ------------| ----|
 |CS6476     | Computer Vision      | Spring17  | A
 |CS7646    | Machine Learning for Trading      | Spring17  | A
